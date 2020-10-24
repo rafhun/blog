@@ -1,15 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `rafhun`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Raphael Hüni`,
+      summary: `Dev based in Switzerland focusing mostly on frontend technology.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `A journal of my learnings of all things web.`,
+    siteUrl: `https://rafhun.ch/`,
   },
   plugins: [
     {
@@ -60,11 +57,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `rafhun`,
+        short_name: `rafhun`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#090088`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
       },
