@@ -1,5 +1,6 @@
 ---
 title: My Most Used WordPress plugins
+date: 2020-10-26T07:15
 ---
 
 These plugins are part of most of my project. Some play a major role when it comes to functionality others are helpful during development and some are useful after a site comes online.
