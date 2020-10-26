@@ -1,4 +1,201 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[rafhun]]></title><description><![CDATA[A journal of my learnings of all things web.]]></description><link>https://rafhun.ch</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 25 Oct 2020 12:38:05 GMT</lastBuildDate><item><title><![CDATA[WordPress Block Patterns]]></title><description><![CDATA[With WordPress v5.5 block patterns have become available. Core ships with some default patterns and offers you the option to register your…]]></description><link>https://rafhun.ch/wordpress-block-patterns/</link><guid isPermaLink="false">https://rafhun.ch/wordpress-block-patterns/</guid><pubDate>Sun, 25 Oct 2020 11:30:00 GMT</pubDate><content:encoded>&lt;p&gt;With WordPress v5.5 block patterns have become available. Core ships with some default patterns and offers you the option to register your own patterns and pattern categories as well as an option to remove the core patterns.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[rafhun]]></title><description><![CDATA[A journal of my learnings of all things web.]]></description><link>https://rafhun.ch</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 26 Oct 2020 20:43:38 GMT</lastBuildDate><item><title><![CDATA[My Most Used WordPress plugins]]></title><description><![CDATA[These plugins are part of most of my project. Some play a major role when it comes to functionality others are helpful during development…]]></description><link>https://rafhun.ch/favorite-wordpress-plugins/</link><guid isPermaLink="false">https://rafhun.ch/favorite-wordpress-plugins/</guid><content:encoded>&lt;p&gt;These plugins are part of most of my project. Some play a major role when it comes to functionality others are helpful during development and some are useful after a site comes online.&lt;/p&gt;
+&lt;h2&gt;Advanced Custom Fields Pro&lt;/h2&gt;
+&lt;p&gt;The &lt;a href=&quot;https://www.advancedcustomfields.com&quot;&gt;Advanced Custom Fields Pro&lt;/a&gt; plugin is in my opinion the best option to add meta fields to your posts and pages. The plugin offers a variety of field types for many use cases, let’s you define fields using PHP or save and read fields from JSON files.&lt;/p&gt;
+&lt;p&gt;There are also a lot of other useful features, such as an easy interface to develop your own Gutenberg editor blocks without any React knowledge, a simple way to define and populate option pages and many useful filters to allow many customizations.&lt;/p&gt;
+&lt;p&gt;Custom fields can be added to all post types (default and custom ones) as well as menus and menu items, option pages, taxonomies and more.&lt;/p&gt;
+&lt;p&gt;Basic fields are available in the free version of the plugin. You can upgrade to the Pro version to get access to the repeater field, ACF blocks, the flexible content field, options pages, the gallery field and the clone field.&lt;/p&gt;
+&lt;h2&gt;GAinWP&lt;/h2&gt;
+&lt;p&gt;Adds Google Analytics tracking to your site and displays its data in your dashboard. &lt;a href=&quot;https://wordpress.org/plugins/ga-in/&quot;&gt;GAinWP&lt;/a&gt; is free, easy to implement and works great out of the box.&lt;/p&gt;
+&lt;h2&gt;Limit Login Attempts Reloaded&lt;/h2&gt;
+&lt;p&gt;Increases the security of your WordPress site by limiting the number of login attempts that are possible through all login systems (normal login, XMLRPC, Woocommerce, custom login pages).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://wordpress.org/plugins/limit-login-attempts-reloaded/&quot;&gt;Limit Login Attempts Reloaded&lt;/a&gt; is free and provides many options for customization, such as the number of retry attempts per IP, logging, white- and blacklisting and supports custom IP origins (Cloudflare, Sucuri, etc.). The plugin is also fully GDPR compliant.&lt;/p&gt;
+&lt;h2&gt;Nested Pages&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://wordpress.org/plugins/wp-nested-pages/&quot;&gt;Nested Pages&lt;/a&gt; provides a simple drag &amp;#x26; drop interfae for managing your page structure and post ordering. The plugin can be activated and configured per post type.&lt;/p&gt;
+&lt;h2&gt;Quick Page/Post Redirect Plugin&lt;/h2&gt;
+&lt;p&gt;Adds a redirect metabox to all pages, posts or custom post types with which the post can easily be redirected to any URL. &lt;a href=&quot;https://wordpress.org/plugins/quick-pagepost-redirect-plugin/&quot;&gt;Quick Page/Post Redirect Plugin&lt;/a&gt; also provides an option for setting up redirects for non-existant links which is very useful after sites have been converted to WordPress or the link or page structure has been updated.&lt;/p&gt;
+&lt;h2&gt;Safe SVG&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://wordpress.org/plugins/safe-svg/&quot;&gt;Safe SVG&lt;/a&gt; allows you to upload SVG into WordPress. The plugin checks uploaded files to stop vulnerabilities and gives you the ability to preview the uploaded SVG in the media library. This is included in the free version of the plugin and everything I need. If you want SVGO Optimization, Choose who can upload and premium support, check out the Pro version.&lt;/p&gt;
+&lt;h2&gt;Simple Cache&lt;/h2&gt;
+&lt;p&gt;An easy caching solution that just works. &lt;a href=&quot;https://wordpress.org/plugins/simple-cache/&quot;&gt;Simple Cache&lt;/a&gt; provides a one-click install with just an on-off switch.&lt;/p&gt;
+&lt;p&gt;If you use advanced object caching (Memcached or Redis) there is an advanced mode available that will automatically setup Batcache and Memcached/Redis for you.&lt;/p&gt;
+&lt;h2&gt;The SEO Framework&lt;/h2&gt;
+&lt;p&gt;An automated, advanced, unbranded and fast SEO solution for your WordPress website. &lt;a href=&quot;https://wordpress.org/plugins/autodescription/&quot;&gt;The SEO Framework&lt;/a&gt; describes itself as the only feature-complete SEO plugin that follows the white-hat guidelines and rules imposed by WordPress and search engines. The base plugin is free and provides all features you need. There are free and paid extensions to further add structured data, honeypots, AMP, Monitoring, etc.&lt;/p&gt;
+&lt;h2&gt;Updraft Plus – Backup/Restore&lt;/h2&gt;
+&lt;p&gt;A simple automated backup plugin that allows backups of the database or all files to the server and some offsite storage in regular intervals. &lt;a href=&quot;https://wordpress.org/plugins/updraftplus/&quot;&gt;Updraft Plus&lt;/a&gt; allows backups directly to Dropbox, Google Drive, Amazon S3, FTP and others. There is also a paid version with even more options however I only use the free version.&lt;/p&gt;
+&lt;h2&gt;User Switching&lt;/h2&gt;
+&lt;p&gt;Need to check access rights or user roles with ease? &lt;a href=&quot;https://wordpress.org/plugins/user-switching/&quot;&gt;User Switching&lt;/a&gt; allows you to quickly swap between user accounts in WordPress.&lt;/p&gt;
+&lt;h2&gt;WP BrowserUpdate&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://wordpress.org/plugins/wp-browser-update/&quot;&gt;WP Browser Update&lt;/a&gt; informs visitors to update their outdated browser. Outdated browsers can be configured. I mostly use this to give users of Internet Explorer 11 a hint to update since the page might look broken if it is not optimized for IE11.&lt;/p&gt;
+&lt;h2&gt;WP Migrate DB&lt;/h2&gt;
+&lt;p&gt;This is my go to solution during development and testing of websites. &lt;a href=&quot;https://wordpress.org/plugins/wp-migrate-db/&quot;&gt;WP Migrate DB&lt;/a&gt; allows an easy database export including smart find and replace on URL’s and file paths which you can then download and import in a different environment.&lt;/p&gt;
+&lt;p&gt;I usually use the free version, Pro adds direct pushes and pulls to servers, support for multisite and push and pull of media libraries and theme and plugin files.&lt;/p&gt;
+&lt;h2&gt;WPML&lt;/h2&gt;
+&lt;p&gt;I currently create multilingual sites using the paid &lt;a href=&quot;https://wpml.org/&quot;&gt;WPML&lt;/a&gt; plugin. It allows you to translate everything, adds language switchers automatically or provides filters and actions so they can be created manually. It also integrates with many other plugins (such as ACF, Yoast SEO, etc.).&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Branding the WordPress backend]]></title><description><![CDATA[Bring your client’s brand into the WordPress admin and the login screen to further personalize the experience of site admins and editors…]]></description><link>https://rafhun.ch/wp-admin-branding/</link><guid isPermaLink="false">https://rafhun.ch/wp-admin-branding/</guid><pubDate>Mon, 26 Oct 2020 20:35:00 GMT</pubDate><content:encoded>&lt;p&gt;Bring your client’s brand into the WordPress admin and the login screen to further personalize the experience of site admins and editors.&lt;/p&gt;
+&lt;h2&gt;Options&lt;/h2&gt;
+&lt;p&gt;You can hardcode the options and styles into your plugin or theme or better offer them as customizer options. If you want to use the customizer make sure to register controls for the following variables:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Page Background: sets the background color of the login page&lt;/li&gt;
+&lt;li&gt;Brand Color: used for the primary button on the login page&lt;/li&gt;
+&lt;li&gt;Text Color: default text color on the login page&lt;/li&gt;
+&lt;li&gt;Logo: Will be set as background image above the login form and in the admin bar&lt;/li&gt;
+&lt;li&gt;Header URL: The logo on the login screen links to this URL&lt;/li&gt;
+&lt;li&gt;Header Text&lt;/li&gt;
+&lt;li&gt;Admin Footer Text: This text appears in the footer of backend pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Login Screen&lt;/h2&gt;
+&lt;p&gt;There are a few hooks available for customiztion of the login screen.&lt;/p&gt;
+&lt;h3&gt;Page Styles&lt;/h3&gt;
+&lt;p&gt;Create the additional styles needed for the login page based on options retrieved from the Customizer, then enqueue them using the &lt;code class=&quot;language-text&quot;&gt;login_enqueue_scripts&lt;/code&gt; action. By echoing the return of its function the styles are injected into the login page.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token php language-php&quot;&gt;&lt;span class=&quot;token delimiter important&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// Get options from customizer ...&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;// Page wide styles&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;$pageStyles&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;
+  .login {
+    background-color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$pageBackground&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+    color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$textColor&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+  }
+&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Using the &lt;code class=&quot;language-text&quot;&gt;.login&lt;/code&gt; class allows you to override the default WordPress sitewide styles. Next we will set up the styling we need for the logo section.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token php language-php&quot;&gt;&lt;span class=&quot;token delimiter important&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// ...&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;$logoStyles&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;
+  #login h1 a {
+    background-image: url(&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$logoPath&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;);
+  }
+
+  .login form h1.admin-email__heading {
+    color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$textColor&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+  }
+&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Finally we need to adjust the submit button styles. Here we keep with WordPress default button styles and are just adjusting the colors in use.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token php language-php&quot;&gt;&lt;span class=&quot;token delimiter important&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// ...&lt;/span&gt;
+&lt;span class=&quot;token variable&quot;&gt;$buttonStyles&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;
+  .wp-core-ui form .button {
+    background-color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$pageBackground&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+    color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$textColor&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+    border-color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$textColor&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+  }
+
+  .wp-core-ui form .button:focus,
+  .wp-core-ui form .button:hover {
+    box-shadow: 0 0 0 1px &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$textColor&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+    background-color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$pageBackground&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+    border-color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$textColor&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+    color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$textColor&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+  }
+
+  .wp-core-ui form .button-primary {
+    background-color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$brandColor&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+    border-color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$brandColor&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+    color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$pageBackground&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+  }
+
+  .wp-core-ui form .button-primary:focus,
+  .wp-core-ui form .button-primary:hover {
+    box-shadow: 0 0 0 1px &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$pageBackground&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;, 0 0 0 3px &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$brandColor&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+    background-color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$brandColor&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+    border-color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$brandColor&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+    color: &apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$pageBackground&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;;
+  }
+&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Finally we put together all CSS and echo it as part of the hook.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// ...&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;
+  &amp;lt;style type=&quot;text/css&quot;&gt;&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;$pageStyles&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;$logoStyles&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;$buttonStyles&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;
+  &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;&amp;lt;/style&gt;
+&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Header URL and Text&lt;/h3&gt;
+&lt;p&gt;The logo above the login form is linked to &lt;code class=&quot;language-text&quot;&gt;wordpress.org&lt;/code&gt; by default. There is also some hidden text in place that is used by screen readers while the browser only displays the logo which is set as background image (see above). There are hooks that allow adjustment of both the URL and text which can be used as follows.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token php language-php&quot;&gt;&lt;span class=&quot;token delimiter important&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;add_filter&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;login_headerurl&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token comment&quot;&gt;// Get the URL from customizer -&gt; $url&lt;/span&gt;
+
+  &lt;span class=&quot;token comment&quot;&gt;// Validate and return the URL&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;esc_url_raw&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;$url&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$url&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$url&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;token comment&quot;&gt;// Fallback default&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;$url&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$url&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;https://wordpress.org&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token function&quot;&gt;add_filter&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;login_headertext&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token comment&quot;&gt;// Get from customizer -&gt; $text&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$text&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Admin Area&lt;/h2&gt;
+&lt;p&gt;There are a few branding options available in the admin area of a WordPress website. It is possible to render your own logo in the admin bar and you may adjust the footer text.&lt;/p&gt;
+&lt;h3&gt;Admin Bar Logo&lt;/h3&gt;
+&lt;p&gt;Use the &lt;code class=&quot;language-text&quot;&gt;wp_before_admin_bar_render&lt;/code&gt; hook to display your own logo in the admin bar. You set this up by injecting some custom CSS that overrides core defaults.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token php language-php&quot;&gt;&lt;span class=&quot;token delimiter important&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;add_action&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;wp_before_admin_bar_render&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token comment&quot;&gt;// Get the admin bar logo from customizer -&gt; $logoPath&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;
+  &amp;lt;style type=&quot;text/css&quot;&gt;
+    #wpadminbar #wp-admin-bar-wp-logo &gt; .ab-item .ab-icon::before {
+      background-image: url(&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$logoPath&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;);
+      background-position: 0 0;
+      color: rgba(0, 0, 0, 0);
+    }
+
+    #wpadminbar #wp-admin-bar-wp-logo:hover &gt; .ab-item .ab-icon::before {
+      background-position: 0 0;
+    }
+  &amp;lt;/style&gt;
+  &apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Admin Footer&lt;/h3&gt;
+&lt;p&gt;The &lt;code class=&quot;language-text&quot;&gt;admin_footer_text&lt;/code&gt; filter just expects you to echo a string.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token php language-php&quot;&gt;&lt;span class=&quot;token delimiter important&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;token comment&quot;&gt;// Get the footer text from customizer -&gt; $text&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;add_filter&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token single-quoted-string string&quot;&gt;&apos;admin_footer_text&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$text&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Gutenberg Gotchas]]></title><description><![CDATA[This post will be updated regularly and contains quick little tips and tricks when working with the WordPress block editor (Gutenberg). Get…]]></description><link>https://rafhun.ch/gutenberg-gotchas/</link><guid isPermaLink="false">https://rafhun.ch/gutenberg-gotchas/</guid><pubDate>Mon, 26 Oct 2020 12:30:00 GMT</pubDate><content:encoded>&lt;p&gt;This post will be updated regularly and contains quick little tips and tricks when working with the WordPress block editor (Gutenberg).&lt;/p&gt;
+&lt;h2&gt;Get the current title&lt;/h2&gt;
+&lt;p&gt;Use the following hook to get the current title of the post you are editing. Use this to i. e. prepopulate templates, link editor blocks to the title or generate some strings based on the title.&lt;/p&gt;
+&lt;p&gt;Hint: since this makes use of a hook make sure to place this within a functional component.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; useSelect &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;@wordpress/data&quot;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; postTitle &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;useSelect&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;select&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; getEditedPostAttribute &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;select&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;core/editor&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; postTitle&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;getEditedPostAttribute&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;title&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;I prefer to return an object and destructure it as is done above since this let’s us easily extract more data using the &lt;code class=&quot;language-text&quot;&gt;useSelect&lt;/code&gt; hook.&lt;/p&gt;
+&lt;h2&gt;Get Current Post Data&lt;/h2&gt;
+&lt;p&gt;Make use of &lt;code class=&quot;language-text&quot;&gt;getCurrentPost&lt;/code&gt; to access the latest saved data about a post. This gives you access to a variety of data, it is what is returned by a REST query. Use this as follows.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; useSelect &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;@wordpress/data&quot;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; post &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;useSelect&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;select&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; getCurrentPost &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;select&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;core/editor&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; post&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;getCurrentPost&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;You now can read the post data inside of the &lt;code class=&quot;language-text&quot;&gt;post&lt;/code&gt; variable. It is probably easiest to further destructure this object as in the following example.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  author&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  categories&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  content&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  date_gmt&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  featured_media&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  id&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  link&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  title&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  type&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; post
+
+&lt;span class=&quot;token comment&quot;&gt;// For custom post types: rename keys with hyphens during destructuring:&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&quot;rh-custom-taxonomy&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; customTaxonomy&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&quot;rh-custom-taxonomy-2&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; customTaxonomy2&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; post&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Taxonomy information is returned as an array of term ID’s, the author and featured media also return just an ID, most other keys just contain strings.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[WordPress Block Patterns]]></title><description><![CDATA[With WordPress v5.5 block patterns have become available. Core ships with some default patterns and offers you the option to register your…]]></description><link>https://rafhun.ch/wordpress-block-patterns/</link><guid isPermaLink="false">https://rafhun.ch/wordpress-block-patterns/</guid><pubDate>Sun, 25 Oct 2020 11:30:00 GMT</pubDate><content:encoded>&lt;p&gt;With WordPress v5.5 block patterns have become available. Core ships with some default patterns and offers you the option to register your own patterns and pattern categories as well as an option to remove the core patterns.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
