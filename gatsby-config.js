@@ -7,7 +7,7 @@ module.exports = {
       summary: `Dev based in Switzerland focusing mostly on frontend technology.`,
     },
     description: `A journal of my learnings of all things web.`,
-    siteUrl: `https://rafhun.ch/`,
+    siteUrl: `https://rafhun.github.io/blog/`,
   },
   plugins: [
     {
