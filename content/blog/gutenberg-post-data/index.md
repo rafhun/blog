@@ -64,7 +64,7 @@ Taxonomy information is returned as an array of term ID's, the author and featur
 
 Use `getEntityRecord` to retrieve information for the returned taxonomy terms. Continuing the above example you can use the following code to access data for all terms in `customTaxonomy`.
 
-```js
+```jsx
 const customTaxonomyTermLinks = useSelect(
   select => {
     const { getEntityRecord } = select("core")
