@@ -50,16 +50,19 @@
 
 /* Prompt for all users */
 .command-line-prompt > span[data-user]:before {
-  content: "[" attr(data-user) "@" attr(data-host) "] $";
+  /* content: "[" attr(data-user) "@" attr(data-host) "] $"; */
+  content: "$";
 }
 
 /* Prompt for root */
 .command-line-prompt > span[data-user="root"]:before {
-  content: "[" attr(data-user) "@" attr(data-host) "] #";
+  /* content: "[" attr(data-user) "@" attr(data-host) "] #"; */
+  content: "$";
 }
 
 .command-line-prompt > span[data-prompt]:before {
-  content: attr(data-prompt);
+  /* content: attr(data-prompt); */
+  content: "$";
 }
 
 .token.operator {
