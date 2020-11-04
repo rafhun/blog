@@ -159,7 +159,7 @@ class PostData
 }
 ```
 
-What we are doing here is simply making use of the `get_the_term` function providing our stored post ID and the given taxonomy slug. If any terms of the taxonomy are assigned to this post it will return an array of term objects. We return false if no terms could be found.
+What we are doing here is simply making use of the `get_the_terms` function providing our stored post ID and the given taxonomy slug. If any terms of the taxonomy are assigned to this post it will return an array of term objects. We return false if no terms could be found.
 
 Next we initialize our own terms array which we then populate with reduced term objects. Loop through the returned terms using `foreach` then extract whatever information you need into the `$term` object. In this example we are getting the name and link to the archive of each term and then add the whole object to our `$terms` array.
 
